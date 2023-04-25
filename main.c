@@ -7,7 +7,7 @@ int Binary(int a[], int element, int n);
 
 int main()
 {
-    int arr[5] = {23, 17, 8, 95, 14};
+    int arr[5] = {2, 107, 81, 5, 24};
 
     int key;
 
